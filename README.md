@@ -1,6 +1,6 @@
-# nest-app
+# NestJs App
 
-This is a simple nest.js rest api, using `jwt`, `TypeORM`, `Swagger`, 
+This is a simple nest.js rest api, using `jwt` for authentication, `TypeORM` for database, `Jest` for testing
 
 ## Getting started
 
